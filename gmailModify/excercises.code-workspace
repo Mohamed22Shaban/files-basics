@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "../excercises"
+		},
+		{
+			"path": "../pdf"
+		},
+		{
+			"path": "../word"
+		},
+		{
+			"path": "../css"
+		},
+		{
+			"path": "../josn"
+		},
+		{
+			"path": "../webscraping"
+		},
+		{
+			"path": "../database"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
